@@ -13,6 +13,7 @@ public class Student {
     
     private int ID;
     private String firstName;
+    private int maxCourse;
 
     /**
      * @return the ID
