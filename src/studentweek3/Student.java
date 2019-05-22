@@ -40,6 +40,7 @@ public class Student {
      */
     public void setFirstName(String firstName) {
         this.firstName = firstName;
+        System.out.println("Edited");
     }
     
 }
